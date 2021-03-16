@@ -11,7 +11,8 @@ body {
 }
 
 h1 {
-    font-family: "Bigelow Rules";
+    font-family: 'Creepster', cursive;
+    letter-spacing: 6px;
     font-size: 2.5rem;
-    color: 	#c52525;
+    color: #c52525;
 }
