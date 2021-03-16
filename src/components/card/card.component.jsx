@@ -1,6 +1,6 @@
 import React from 'react'
 
-
+import "./card.style.css"
 
 function Card(props) {
     return (
