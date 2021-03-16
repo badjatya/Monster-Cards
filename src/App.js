@@ -29,8 +29,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <SearchBox placeholder={this.state.searchField} handleChange={this.handleChange} />
         <h1>Monsters</h1>
+        <SearchBox placeholder={this.state.searchField} handleChange={this.handleChange} />
         <CardList monsters={this.state.monsters} />
       </div>
     );
